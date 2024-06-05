@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Genshin Impact</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3LcM2VWktVDWqeN82-ZZ60sxE8KvWJ3FWw&s">
+        <h1>Genshin Impact</h1>
+    </header>
+    <main>
+       <p><b>Genshin Impact</b> — компьютерная игра в жанре action-adventure с открытым миром и элементами RPG, разработанная китайской компанией miHoYo Limited.</p> 
+       <p>На данный момент в игре действует версия 4.7</p>
+       <img src="https://fastcdn.hoyoverse.com/content-v2/hk4e/123975/66ffa7d1a3c038b64631634fcf059a57_8582616752567260692.jpg" class="g">
+       <p>Новые персонажи</p>
+       <table>
+            <tr>
+                <td>Клоринда</td>
+                <td>Сиджвин</td>
+                <td>Сетос</td>
+            </tr>
+            <tr>
+                <td><img src="https://static.wikia.nocookie.net/genshin-impact/images/9/9a/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6_%D0%9A%D0%BB%D0%BE%D1%80%D0%B8%D0%BD%D0%B4%D0%B0_%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.jpg/revision/latest?cb=20240422104040&path-prefix=ru"></td>
+                <td><img src="https://static.wikia.nocookie.net/genshin-impact/images/a/a3/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6_%D0%A1%D0%B8%D0%B4%D0%B6%D0%B2%D0%B8%D0%BD_%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.jpg/revision/latest/scale-to-width-down/250?cb=20240422104059&path-prefix=ru"></td>
+                <td><img src="https://static.wikia.nocookie.net/genshin-impact/images/d/d0/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6_%D0%A1%D0%B5%D1%82%D0%BE%D1%81_%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.jpg/revision/latest/scale-to-width-down/250?cb=20240422104051&path-prefix=ru"></td>
+            </tr>
+            <tr>
+                <td>Непобедимый судебный дуэлянт. С мечом в руках она защищает правосудие Кур-де-Фонтейна</td>
+                <td>Старшая медсестра крепости Миропид одинакого заботится о каждом заключенном подводной тюрьмы</td>
+                <td>Наследник Храма Молчания, что несет тайны песков</td>
+            </tr>
+       </table>
+    </main>
+    <footer>
+
+    </footer>
+</body>
+</html>
