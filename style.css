@@ -1,15 +1,19 @@
 header {
-    background-color: #6A93D4;
+    background-color: #3f6aaf;
     border-radius: 15px;
+    color: white;
 }
 
 header img {
     width: 50px;
     height: 50px;
-    margin: 10px 0 0 10px;
+    margin: 15px 0 0 15px;
+    border-radius: 10px;
+    position: absolute;
 }
 
 header h1 {
+    margin-left: 77px;
     display: inline-block;
 }
 
@@ -17,8 +21,23 @@ p {
     font-size: 20px;
 }
 
-main img {
-    position: absolute;
-    top: 150px;
-    left: -50px;
+body {
+    background-image: linear-gradient(to right bottom, rgb(248, 209, 157), rgb(243, 232, 184), rgb(236, 217, 177), rgb(248, 222, 106));
+
 }
+
+.g {
+    width: auto;    
+}
+
+img {
+    width: 300px;
+}
+
+td {
+    border: 3px solid #3f6aaf;
+    width: 250px;
+    font-size: 20px;
+    background-color: #ffffff;
+}
+
